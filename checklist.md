@@ -36,6 +36,7 @@
 ## Applications
 - [ ] General
   - [ ] Go to App Store > Purchased and download all necessary
+    - [ ] Slack (remote control no longer available in Slack, so App store version is fine)
     - [ ] ByWord
     - [ ] Xcode
       - [ ] Also install [Command Line Tools](https://gist.github.com/jglovier/842c61d5a4347cdc18f812e2ef7c2928)
@@ -44,7 +45,6 @@
     - [ ] TextExpander
     - [ ] DaisyDisk
     - [ ] etc
-- [ ] [Slack](https://slack.com/downloads/osx) *(need .com download for control sharing support)
 - [ ] [Dropbox](https://www.dropbox.com/install)
 - [ ] [Chrome](http://www.google.com/chrome/)
   - [ ] Set to confirm on `Cmd Q` for Quit
