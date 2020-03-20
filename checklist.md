@@ -30,6 +30,8 @@
 	- [ ] Turn on Firewall (?)
 - [ ] Display (*if MBP 13")
   - [ ] Set display to Scaled (`System Preferences > Display > Resolution`) and set to `Looks like 1280 x 800`
+- [ ] [Customize touch bar](https://support.apple.com/en-us/HT207055)
+  - [ ] In control strip, replace Siri with Sleep
 
 ## Applications
 - [ ] General
