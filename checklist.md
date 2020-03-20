@@ -28,6 +28,8 @@
 	- [ ] Turn on FileVault disk encryption
 	- [ ] Set to require password immediately
 	- [ ] Turn on Firewall (?)
+- [ ] Display (*if MBP 13")
+  - [ ] Set display to Scaled (`System Preferences > Display > Resolution`) and set to `Looks like 1280 x 800`
 
 ## Applications
 - [ ] General
