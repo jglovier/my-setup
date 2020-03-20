@@ -47,7 +47,6 @@
 - [ ] [Chrome](http://www.google.com/chrome/)
 	- [ ] Set to confirm on `Cmd Q` for Quit
 	- [ ] Log in and sync bookmarks and extensions
-	- [ ] Install [user style for GitHub.com](https://gist.github.com/jglovier/2dff3507d9ee007f6ce4)
 - [ ] [Atom](http://atom.io)
 - [ ] [GitHub Desktop](https://desktop.github.com/)
 - [ ] [Sketch](http://www.sketchapp.com/) *(from App store)*
