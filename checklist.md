@@ -9,8 +9,6 @@
 - [ ] Turn off global font smoothing (`System Preferences > General > (uncheck) Use LCD font smoothing when available`)
 - [ ] Global Shortcuts (`System Preferences > Keyboard > Shortcuts > App Shortcuts`): 
   - [ ] `cmd shift +` for Window > Zoom (just type `Zoom`)
-  - [ ] `cmd 2` for Sketch.app `Show Inspector`
-  - [ ] `cmd 1` for Sketch.app `Show Layer List`
 - [ ] App Shortcuts (`System Preferences > Keyboard > Shortcuts > App Shortcuts`)
   - [ ] Sketch: `Show Layers List` = `cmd 1`
   - [ ] Sketch: `Show Inspector` = `cmd 2`
