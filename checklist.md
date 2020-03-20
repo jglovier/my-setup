@@ -53,6 +53,7 @@
 - [ ] [GitHub Desktop](https://desktop.github.com/)
 - [ ] [Sketch](http://www.sketchapp.com/) *(from App store)*
   - [ ] [SketchRunner](https://sketchrunner.com/)
+- [ ] [Figma desktop](https://www.figma.com/downloads/)
 - [ ] [Fantastical 2](https://flexibits.com/fantastical)
   - [ ] Check Appearance > Use color icon
 - [ ] [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html)
