@@ -98,6 +98,12 @@
 - [ ] Install misc dependencies
   - [ ] Install Node via Homebrew: `brew install node`
   - [ ] Install Sass, Jekyll, and Rouge: `gem install sass jekyll rouge`.
+  
+## Visual Studio Code
+
+- [ ] Install [VS Code](https://code.visualstudio.com/)
+- [ ] Install extensions
+  - [ ] [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo)
 
 ## Atom
 - [ ] Enable `atom` Terminal commands: from Atom.app, open the Atom menu and select *Install Shell Commands*
