@@ -121,11 +121,6 @@
 - [ ] [Generate new SSH key](https://help.github.com/articles/generating-an-ssh-key/)
 - [ ] [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub account when 2FA is enabled.
 
-## HospitalRun
-- [ ] Clone [hospitalrun/hospitalrun-frontend](https://github.com/hospitalRun/hospitalrun-frontend/)
-  - [ ] Run through [installation](https://github.com/hospitalRun/hospitalrun-frontend/#install)
-  - [ ] Install [Ember inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) for Chrome
-
 ## Backup
 - [ ] Configure TimeMachine and perform initial backup
   - [ ] Turn off, and set Cal reminder to perform manually each week
