@@ -109,7 +109,6 @@
 - [ ] Enable `atom` Terminal commands: from Atom.app, open the Atom menu and select *Install Shell Commands*
 - [ ] Disable the `wrap-guide` package
 - [ ] Install [favorite packages](https://atom.io/users/jglovier/stars):
-  - [ ] [Fizzy syntax theme](https://atom.io/themes/fizzy) syntax package
   - [ ] [Wrap in tag](https://atom.io/packages/atom-wrap-in-tag)
   - [ ] [Selector to tag](https://atom.io/packages/selector-to-tag)
   - [ ] [Linter](https://atom.io/packages/linter) and [linter-stylelint](https://atom.io/packages/linter-stylelint)
