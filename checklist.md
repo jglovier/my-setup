@@ -10,7 +10,7 @@
 - [ ] Global Shortcuts (`System Preferences > Keyboard > Shortcuts > App Shortcuts`): 
   - [ ] `cmd shift +` for Window > Zoom (just type `Zoom`)
 - [ ] App Shortcuts (`System Preferences > Keyboard > Shortcuts > App Shortcuts`)
-  - [ ] Sketch: `Show Layers List` = `cmd 1`
+  - [ ] Sketch: `Show Sidebar` = `cmd 1`
   - [ ] Sketch: `Show Inspector` = `cmd 2`
 - [ ] Dock
   - [ ] Move to left side
