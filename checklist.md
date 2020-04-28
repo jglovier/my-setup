@@ -93,11 +93,14 @@
     - Regular font: `14pt Roboto Mono for Powerline`
     - Non-ASCII font: `12pt Meslo LG L DZ Regular for Powerline`
 - [ ] Install Ruby
-  - [ ] Install rbenv via Homebrew: `brew install rbenv`.
+  - [ ] Install `rbenv` via Homebrew: `brew install rbenv`.
   - [ ] Download a version of Ruby via rbenv (e.g., `rbenv install 2.5.1`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
   - [ ] Make it the global version of Ruby: `rbenv global 2.5.1`.
+- [ ] Install Node
+  - [ ] Install `nvm` via Homebrew: `brew install nvm`.
+  - [ ] Install a version of Node via nvm (e.g., `nvm install node`) [See usage details](https://github.com/nvm-sh/nvm#usage)
 - [ ] Install misc dependencies
-  - [ ] Install Node via Homebrew: `brew install node`
+  - [ ] Install Node: `brew install node`
   - [ ] Install Sass, Jekyll, and Rouge: `gem install sass jekyll rouge`.
   
 ## Visual Studio Code
