@@ -13,7 +13,6 @@
   - [ ] Sketch: `Show Sidebar` = `cmd 1`
   - [ ] Sketch: `Show Inspector` = `cmd 2`
 - [ ] Dock
-  - [ ] Move to left side
   - [ ] Check automatically show and hide
 - [ ] Finder
   - [ ] Setup sidebar
