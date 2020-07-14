@@ -68,7 +68,7 @@
 - [ ] [Farrago](https://rogueamoeba.com/farrago/) for soundfx fun
 
 ## CLI
-- [ ] Install command line tools: run `xcode-select —install` in iTerm
+- [ ] Install command line tools: run `xcode-select --install` in iTerm
 - [ ] Install [iTerm2](https://www.iterm2.com/)
   - [ ] Load `.bash_profile`
   - [ ] Load `.gitconfig` contents into global `~/.gitconfig`
