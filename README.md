@@ -10,13 +10,11 @@ How to use: Open an issue each time I need to setup a new machine, paste [the ch
 
 | File | Description |
 | --- | --- |
-| `checklist.md` | The template list of stuff to do. I copy and paste into a new issue. |
-| `.bash-profile` | Customizes the iTerm prompt. |
-| `.bash-login` | Customizes my iTerm colors |
+| `issue_template.md` | The template list of stuff to do. Open a new issue, and voila! :sparkles: |
 | `.gitconfig` | Global Git configuration to specify my name and email, shortcuts, colors, and more. |
 | `.gitignore` | The ignore file from [twbs/bootstrap](https://github.com/twbs/bootstrap) that @mdo uses everywhere. |
 | `.gitignore_global` | My global Git ignore file |
-| `.zshrc` | Config file for ZSH |
+| `.zshrc` | Config file for ZSH with aliases, theme, and some other stuff (rbenv, nvm, etc) |
 
 ## Use it yourself
 

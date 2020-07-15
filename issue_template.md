@@ -38,8 +38,6 @@
   - [ ] Go to App Store > Purchased and download all necessary
     - [ ] Slack (remote control no longer available in Slack, so App store version is fine)
     - [ ] ByWord
-    - [ ] Xcode
-      - [ ] Also install [Command Line Tools](https://gist.github.com/jglovier/842c61d5a4347cdc18f812e2ef7c2928)
     - [ ] 1Password
     - [ ] TextExpander
     - [ ] DaisyDisk
@@ -70,14 +68,13 @@
 - [ ] [Farrago](https://rogueamoeba.com/farrago/) for soundfx fun
 
 ## CLI
-- [ ] Install command line tools: run `xcode-select —install` in iTerm
+- [ ] Install command line tools: run `xcode-select --install` in iTerm
 - [ ] Install [iTerm2](https://www.iterm2.com/)
-  - [ ] Load `.bash_profile`
-  - [ ] Load `.gitconfig` contents into global `~/.gitconfig`
-  - [ ] Load `.gitignore_global`
+  - [ ] Copy `.gitconfig` contents into global `~/.gitconfig`
+  - [ ] Copy `.gitignore_global` to `~/`
 - [ ] Install [Homebrew](https://brew.sh/)
 - [ ] Install [oh my zsh](http://ohmyz.sh/)
-  - [ ] Load `.zshrc`
+  - [ ] Copy `.zshrc` to `~/`
   - [ ] Install [Powerline patched fonts](https://github.com/powerline/fonts/)
 - [ ] Set iTerm preferences
   - [ ] Install [Galaxy theme](https://github.com/jglovier/galaxy-theme-iterm)
@@ -91,9 +88,6 @@
 - [ ] Install Node
   - [ ] Install `nvm` via Homebrew: `brew install nvm`.
   - [ ] Install a version of Node via nvm (e.g., `nvm install node`) [See usage details](https://github.com/nvm-sh/nvm#usage)
-- [ ] Install misc dependencies
-  - [ ] Install Node: `brew install node`
-  - [ ] Install Sass, Jekyll, and Rouge: `gem install sass jekyll rouge`.
   
 ## Visual Studio Code
 
