@@ -1,6 +1,6 @@
 [user]
 	name = Joel Glovier
-	email = jglovier@gmail.com
+	email = 1319791+jglovier@users.noreply.github.com
 
 [color]
     ui = auto
@@ -30,7 +30,7 @@
 	autocrlf = input
 
 [hub]
-protocol = https
+	protocol = https
 
 [github]
 	user = jglovier
@@ -39,22 +39,11 @@ protocol = https
 	diffword = git diff --color-words
 	s = status -s
 
-[filter "media"]
-	required = true
-
-[filter "hawser"]
-	clean = git hawser clean %f
-	smudge = git hawser smudge %f
-	required = true
-
-[filter "lfs"]
-	clean = git-lfs clean -- %f
-	smudge = git-lfs smudge -- %f
-	process = git-lfs filter-process
-	required = true
-
 [push]
 	default = current
 
 [diff]
-tool = Atom
+	tool = default-difftool
+
+[difftool "default-difftool"]
+    cmd = code --wait --diff $LOCAL $REMOTE

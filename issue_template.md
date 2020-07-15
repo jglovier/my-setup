@@ -13,7 +13,6 @@
   - [ ] Sketch: `Show Sidebar` = `cmd 1`
   - [ ] Sketch: `Show Inspector` = `cmd 2`
 - [ ] Dock
-  - [ ] Move to left side
   - [ ] Check automatically show and hide
 - [ ] Finder
   - [ ] Setup sidebar
@@ -30,8 +29,8 @@
   - [ ] Turn on Firewall (?)
 - [ ] Display (*if MBP 13")
   - [ ] Set display to Scaled (`System Preferences > Display > Resolution`) and set to `Looks like 1280 x 800`
-- [ ] [Customize touch bar](https://support.apple.com/en-us/HT207055)
-  - [ ] In control strip, replace Siri with Sleep
+- [ ] Customize touch bar
+  - [ ] In control strip, replace Siri with Sleep (`System Preferences > Keyboard > Customize Control Strip...`)
 - [ ] Configure where [screenshots should be stored](https://www.hellotech.com/guide/for/how-to-change-where-screenshots-are-saved-on-mac)
 
 ## Applications
@@ -39,9 +38,6 @@
   - [ ] Go to App Store > Purchased and download all necessary
     - [ ] Slack (remote control no longer available in Slack, so App store version is fine)
     - [ ] ByWord
-    - [ ] Xcode
-      - [ ] Also install [Command Line Tools](https://gist.github.com/jglovier/842c61d5a4347cdc18f812e2ef7c2928)
-    - ~~Sketch~~ (not from App store anymore, download from site)
     - [ ] 1Password
     - [ ] TextExpander
     - [ ] DaisyDisk
@@ -50,22 +46,16 @@
 - [ ] [Chrome](http://www.google.com/chrome/)
   - [ ] Set to confirm on `Cmd Q` for Quit
   - [ ] Log in and sync bookmarks and extensions
-- [ ] [Atom](http://atom.io)
 - [ ] [GitHub Desktop](https://desktop.github.com/)
-- [ ] [Sketch](http://www.sketchapp.com/) *(from App store)*
+- [ ] [Sketch](http://www.sketchapp.com/)
   - [ ] [SketchRunner](https://sketchrunner.com/)
-- [ ] [Figma desktop](https://www.figma.com/downloads/)
-- [ ] [Fantastical 2](https://flexibits.com/fantastical)
-  - [ ] Check Appearance > Use color icon
 - [ ] [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html)
   - [ ] Photoshop
   - [ ] Illustrator
   - [ ] Acrobat
 - [ ] [Bartender 2](https://www.macbartender.com/) for keeping my Menu bar tidy
 - [ ] [Transmit](https://panic.com/transmit/) for FTP use
-- [ ] Apple Mail (or [Nylas](https://nylas.com/))
-  - [ ] Configure email accounts
-- [ ] [Cloak](https://www.getcloak.com/) for staying secure
+- [ ] [Cloak](https://www.getcloak.com/) for staying secure on the road
 - [ ] [Traktor 2](http://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-2/) for making mixes
 - [ ] [OpenEmu](http://openemu.org/) for old school SNES gaming
 - [ ] [LICEcap](http://www.cockos.com/licecap/) for recording gifs
@@ -78,14 +68,13 @@
 - [ ] [Farrago](https://rogueamoeba.com/farrago/) for soundfx fun
 
 ## CLI
-- [ ] Install command line tools: run `xcode-select —install` in iTerm
+- [ ] Install command line tools: run `xcode-select --install` in iTerm
 - [ ] Install [iTerm2](https://www.iterm2.com/)
-  - [ ] Load `.bash_profile`
-  - [ ] Load `.gitconfig` contents into global `~/.gitconfig`
-  - [ ] Load `.gitignore_global`
+  - [ ] Copy `.gitconfig` contents into global `~/.gitconfig`
+  - [ ] Copy `.gitignore_global` to `~/`
 - [ ] Install [Homebrew](https://brew.sh/)
 - [ ] Install [oh my zsh](http://ohmyz.sh/)
-  - [ ] Load `.zshrc`
+  - [ ] Copy `.zshrc` to `~/`
   - [ ] Install [Powerline patched fonts](https://github.com/powerline/fonts/)
 - [ ] Set iTerm preferences
   - [ ] Install [Galaxy theme](https://github.com/jglovier/galaxy-theme-iterm)
@@ -99,32 +88,12 @@
 - [ ] Install Node
   - [ ] Install `nvm` via Homebrew: `brew install nvm`.
   - [ ] Install a version of Node via nvm (e.g., `nvm install node`) [See usage details](https://github.com/nvm-sh/nvm#usage)
-- [ ] Install misc dependencies
-  - [ ] Install Node: `brew install node`
-  - [ ] Install Sass, Jekyll, and Rouge: `gem install sass jekyll rouge`.
   
 ## Visual Studio Code
 
 - [ ] Install [VS Code](https://code.visualstudio.com/)
 - [ ] Install extensions
   - [ ] [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo)
-
-## Atom
-- [ ] Enable `atom` Terminal commands: from Atom.app, open the Atom menu and select *Install Shell Commands*
-- [ ] Disable the `wrap-guide` package
-- [ ] Install [favorite packages](https://atom.io/users/jglovier/stars):
-  - [ ] [Wrap in tag](https://atom.io/packages/atom-wrap-in-tag)
-  - [ ] [Selector to tag](https://atom.io/packages/selector-to-tag)
-  - [ ] [Linter](https://atom.io/packages/linter) and [linter-stylelint](https://atom.io/packages/linter-stylelint)
-  - [ ] [Autoclose HTML](https://atom.io/packages/autoclose-html)
-  - [ ] [Compare files](https://atom.io/packages/compare-files)
-  - [ ] [Less than slash](https://atom.io/packages/less-than-slash)
-  - [ ] [Merge conflicts](https://atom.io/packages/merge-conflicts)
-  - [ ] [Git-time-machine](https://atom.io/packages/git-time-machine)
-  - [ ] [Atom beautify](https://atom.io/packages/atom-beautify)
-  - [ ] [Markdown PDF](https://atom.io/packages/markdown-pdf)
-  - [ ] [Markdown Writer](https://atom.io/packages/markdown-writer)
-  - [ ] [Toolbar for Markdown Writer](https://atom.io/packages/tool-bar-markdown-writer)
 
 ## GitHub
 - [ ] [Generate new SSH key](https://help.github.com/articles/generating-an-ssh-key/)
@@ -133,7 +102,3 @@
 ## Backup
 - [ ] Configure TimeMachine and perform initial backup
   - [ ] Turn off, and set Cal reminder to perform manually each week
-
-## Misc
-- [ ] Install Fonts from backup fronts dir
-- [ ] Download music from Apple Music
