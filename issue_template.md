@@ -83,7 +83,7 @@
   - [ ] Download a version of Ruby via rbenv (e.g., `rbenv install 2.7.1`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
   - [ ] Make it the global version of Ruby: `rbenv global 2.7.1`.
 - [ ] Install Node
-  - [ ] Install `nvm` via Homebrew: `brew install nvm`.
+  - [ ] [Install `nvm`](https://github.com/nvm-sh/nvm#installing-and-updating)
   - [ ] Install a version of Node via nvm (e.g., `nvm install node`) [See usage details](https://github.com/nvm-sh/nvm#usage)
   
 ## Visual Studio Code
