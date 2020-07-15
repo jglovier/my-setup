@@ -48,6 +48,7 @@
   "Scrollback With Status Bar" : false,
   "Scrollback Lines" : 1000,
   "Scrollback in Alternate Screen" : true,
+  "Draw Powerline Glyphs" : true,
   "Hide After Opening" : false,
   "Flashing Bell" : false,
   "BM Growl" : true,
@@ -331,7 +332,7 @@
     "Red Component" : 0.73333334922790527
   },
   "Disable Smcup Rmcup" : false,
-  "Name" : "Default",
+  "Name" : "Jglovier iTerm Profile",
   "Blinking Cursor" : false,
   "Guid" : "EC5098DD-F9A6-42E8-A182-3C8B95F8BAB1",
   "Ansi 1 Color" : {
@@ -354,8 +355,8 @@
   "Smart Cursor Color" : true,
   "Semantic History" : {
     "editor" : "com.sublimetext.3",
-    "action" : "best editor",
-    "text" : ""
+    "text" : "",
+    "action" : "best editor"
   },
   "Ambiguous Double Width" : false,
   "Blur Radius" : 21.156610576923079,
@@ -399,7 +400,7 @@
     "Red Component" : 0.11305703222751617
   },
   "Screen" : -1,
-  "Non Ascii Font" : "MesloLGLDZ-RegularForPowerline 12",
+  "Non Ascii Font" : "Menlo-Regular 11",
   "Ansi 13 Color" : {
     "Green Component" : 0.33560800552368164,
     "Blue Component" : 0.59868752956390381,
