@@ -76,11 +76,8 @@
 - [ ] Install [oh my zsh](http://ohmyz.sh/)
   - [ ] Copy `.zshrc` to `~/`
   - [ ] Install [Powerline patched fonts](https://github.com/powerline/fonts/)
-- [ ] Set iTerm preferences
-  - [ ] Install [Galaxy theme](https://github.com/jglovier/galaxy-theme-iterm)
-  - [ ] Set text to:
-    - Regular font: `14pt Roboto Mono for Powerline`
-    - Non-ASCII font: `12pt Meslo LG L DZ Regular for Powerline`
+- [ ] Install iTerm theme
+  - [ ] `iTerm2 > Preferences > Profiles > Other actions... > Import JSON Profiles... > [load dotfiles/jglovier-iterm-profile.json]`
 - [ ] Install Ruby
   - [ ] Install `rbenv` via Homebrew: `brew install rbenv`.
   - [ ] Download a version of Ruby via rbenv (e.g., `rbenv install 2.5.1`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
