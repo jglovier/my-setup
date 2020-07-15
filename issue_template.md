@@ -72,7 +72,7 @@
 - [ ] Install [iTerm2](https://www.iterm2.com/)
   - [ ] Load `.bash_profile`
   - [ ] Load `.gitconfig` contents into global `~/.gitconfig`
-  - [ ] Load `.gitignore_global`
+  - [ ] Copy `.gitignore_global` to `~/`
 - [ ] Install [Homebrew](https://brew.sh/)
 - [ ] Install [oh my zsh](http://ohmyz.sh/)
   - [ ] Load `.zshrc`
