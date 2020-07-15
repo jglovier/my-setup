@@ -146,6 +146,7 @@ alias bs='cd ${DIR}/bootstrap'
 
 # Customize prompt
 # commented out because this messes up the powerline fonts arrow and branch stuff
+# generated from https://zsh-prompt-generator.site/
 # PROMPT="|----jglovier----|%~"
 
 ## Server guick starts
