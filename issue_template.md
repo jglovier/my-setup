@@ -70,12 +70,11 @@
 ## CLI
 - [ ] Install command line tools: run `xcode-select --install` in iTerm
 - [ ] Install [iTerm2](https://www.iterm2.com/)
-  - [ ] Load `.bash_profile`
-  - [ ] Load `.gitconfig` contents into global `~/.gitconfig`
+  - [ ] Copy `.gitconfig` contents into global `~/.gitconfig`
   - [ ] Copy `.gitignore_global` to `~/`
 - [ ] Install [Homebrew](https://brew.sh/)
 - [ ] Install [oh my zsh](http://ohmyz.sh/)
-  - [ ] Load `.zshrc`
+  - [ ] Copy `.zshrc` to `~/`
   - [ ] Install [Powerline patched fonts](https://github.com/powerline/fonts/)
 - [ ] Set iTerm preferences
   - [ ] Install [Galaxy theme](https://github.com/jglovier/galaxy-theme-iterm)
