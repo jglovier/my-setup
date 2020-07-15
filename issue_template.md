@@ -89,9 +89,6 @@
 - [ ] Install Node
   - [ ] Install `nvm` via Homebrew: `brew install nvm`.
   - [ ] Install a version of Node via nvm (e.g., `nvm install node`) [See usage details](https://github.com/nvm-sh/nvm#usage)
-- [ ] Install misc dependencies
-  - [ ] Install Node: `brew install node`
-  - [ ] Install Sass, Jekyll, and Rouge: `gem install sass jekyll rouge`.
   
 ## Visual Studio Code
 
