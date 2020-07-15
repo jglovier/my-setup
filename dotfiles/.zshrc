@@ -1,3 +1,6 @@
+# fix from https://github.com/ohmyzsh/ohmyzsh/issues/6835#issuecomment-390216875
+ZSH_DISABLE_COMPFIX=true
+
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/joelglovier/.oh-my-zsh
 
