@@ -41,6 +41,7 @@
     - [ ] 1Password
     - [ ] TextExpander
     - [ ] DaisyDisk
+    - [ ] Magnet
     - [ ] etc
 - [ ] [Dropbox](https://www.dropbox.com/install)
 - [ ] [Chrome](http://www.google.com/chrome/)
