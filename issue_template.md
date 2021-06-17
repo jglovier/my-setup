@@ -54,7 +54,7 @@
   - [ ] Photoshop
   - [ ] Illustrator
   - [ ] Acrobat
-- [ ] [Bartender 2](https://www.macbartender.com/) for keeping my Menu bar tidy
+- [ ] [Bartender 4](https://www.macbartender.com/) for keeping my Menu bar tidy
 - [ ] [Transmit](https://panic.com/transmit/) for FTP use
 - [ ] [Cloak](https://www.getcloak.com/) for staying secure on the road
 - [ ] [Traktor 2](http://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-2/) for making mixes
